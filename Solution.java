@@ -1,4 +1,3 @@
-package cxom.jsp.exam;
 import java.util.Arrays;
 import java.util.Iterator;
 import java.util.Scanner;
